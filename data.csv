@@ -1,0 +1,16 @@
+ID,Name,Age,Gender,Department,Marks,CGPA,Placement
+1,Pooja,20,Female,AI&DS,85,8.6,Placed
+2,Rohan,21,Male,AI&DS,78,8.2,Not Placed
+3,Sneha,19,Female,Computer,92,9.1,Placed
+4,Aditya,20,Male,Mechanical,76,7.8,Not Placed
+5,Neha,21,Female,AI&DS,88,8.9,Placed
+6,Omkar,22,Male,ENTC,73,7.5,Not Placed
+7,Isha,19,Female,Computer,95,9.4,Placed
+8,Siddharth,20,Male,Civil,68,7.2,Not Placed
+9,Riya,21,Female,AI&DS,90,9.0,Placed
+10,Pratik,22,Male,Mechanical,72,7.6,Not Placed
+11,Ananya,20,Female,Computer,87,8.7,Placed
+12,Rahul,21,Male,Civil,70,7.4,Not Placed
+13,Kavya,19,Female,AI&DS,93,9.3,Placed
+14,Amit,22,Male,ENTC,75,7.7,Not Placed
+15,Meera,20,Female,Computer,89,8.8,Placed
